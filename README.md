@@ -1,6 +1,3 @@
-# IPL-Data-Analysis
-Comprehensive IPL Data Analysis using Python, Pandas, Matplotlib, and Seaborn to uncover team performance, player statistics, match trends, and business insights through exploratory data analysis.
-
 #  IPL Data Analysis using Python
 
 ##  Project Overview
@@ -211,7 +208,7 @@ Overall, the analysis highlights how data-driven approaches can be used to evalu
 
 ---
 
-# 📚 Requirements
+#  Requirements
 
 ```text
 pandas
@@ -223,7 +220,7 @@ jupyter
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Larine Theresa Pereira**
 
