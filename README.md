@@ -129,21 +129,51 @@ Contains ball-by-ball information including:
 
 #  Visualizations
 
-Some of the visualizations included in this project:
+## 1. Impact of Toss on Match Outcome
 
-- Team with Most Wins
-- Highest Win Percentage
-- Toss Impact on Match Outcome
-- Top Run Scorers
-- Top Wicket Takers
-- Top IPL Venues
-- Top IPL Cities
-- Highest Team Totals
-- Winning Percentage Above 180 Runs
-- Average Runs in Winning Matches
-- Highest Batting Performances by Player of the Match Winners
+This chart compares the percentage of matches won and lost after winning the toss.
 
-*(Insert screenshots from the `images` folder here.)*
+![Impact of Toss](images/imapct_of_toss.png)
+
+---
+
+## 2. Winning Percentage Based on Team Score
+
+Teams scoring above 180 runs have a significantly higher probability of winning.
+
+![Winning Percentage Above 180](images/winning_perect_team_score.png)
+
+---
+
+## 3. Average Runs Scored by Teams in Winning Matches
+
+Comparison of average team scores in matches they won.
+
+![Average Runs in Winning Matches](images/avg_runs_winning_team.png)
+
+---
+
+## 4. Distribution of IPL Match Results
+
+Shows how IPL matches are won (by runs, wickets, tie, or no result).
+
+![Distribution of Match Results](images/distribution_of_ipl_matches_result.png)
+
+---
+
+## 5. Top Cities Hosting IPL Matches
+
+Comparison of cities that have hosted the highest number of IPL matches.
+
+![Top Cities](images/host_cities.png)
+
+---
+
+## 6. Number of IPL Matches Played Per Season
+
+Shows the growth and expansion of the IPL across different seasons.
+
+![Matches Per Season](images/no_of_matches_per_season.png)
 
 ---
 
@@ -161,29 +191,6 @@ Some of the visualizations included in this project:
 - Sorting and Filtering
 - Python Programming
 
----
-
-#  Project Structure
-
-```
-IPL-Data-Analysis/
-│
-├── data/
-│   ├── matches.csv
-│   └── deliveries.csv
-│
-├── images/
-│   ├── team_wins.png
-│   ├── toss_impact.png
-│   ├── top_batsmen.png
-│   ├── top_bowlers.png
-│   └── ...
-│
-├── IPL_Data_Analysis.ipynb
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
 ---
 
